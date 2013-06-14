@@ -1,6 +1,6 @@
 CLFAGS=-Wall -g
 
 all:
-	make ex1
+	make ex{1,3}
 clean:
-	rm -f ex1
+	rm -f ex{1,3}
