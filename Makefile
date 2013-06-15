@@ -1,6 +1,6 @@
 CLFAGS=-Wall -g
 
-exercises= {1,3,5,6,7}
+exercises= {1,3,5,6,7,8}
 
 all:
 	make ex$(exercises)
